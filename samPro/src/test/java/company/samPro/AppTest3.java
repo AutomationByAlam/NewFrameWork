@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class AppTest3 
     
 {
     @Test
@@ -21,7 +21,7 @@ public class AppTest
     	WebDriver driver;
 
     	   
-   /* azhrggggg	 
+   /* 	 
     	  
    	 System.setProperty("webdriver.chrome.driver","H:\\Drivers\\chromedriver.exe");
    	// Create object of ChromeOptions class
